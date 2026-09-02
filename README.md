@@ -1,0 +1,2 @@
+# WebMCP-Project-GodreryTone-Jewellery-Shopify-Storefront-Testing-Project
+I applied the concept/technique of WebMCP to my on-establishment shopify storefront for real products integration to improve customization through AI agent. This project serves as a great achievement in my building career. This is following the new skills I have gained and look forward to apply in many sectors I will be working on in future. 
