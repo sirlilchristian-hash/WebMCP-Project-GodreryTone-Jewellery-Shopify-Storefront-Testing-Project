@@ -66,6 +66,8 @@ Success Criteria
 - The response remains connected to the GodreryTone catalogue.
 
 ---
+<img width="1113" height="578" alt="image" src="https://github.com/user-attachments/assets/236a2358-9497-4e37-b4ff-bc73871dd8fc" />
+
 
 4. Test Scenario 2 — Occasion
 
@@ -85,6 +87,7 @@ The agent should use the occasion as part of the shopping context when identifyi
 
 Capability Demonstrated
 
+
 Occasion
 
 Success Criteria
@@ -94,7 +97,7 @@ Success Criteria
 - The agent does not treat the request as an unrelated generic product search.
 
 ---
-
+<img width="1135" height="790" alt="image" src="https://github.com/user-attachments/assets/7836cfc0-ceb7-4117-b048-d67d37192505" />
 5. Test Scenario 3 — Style
 
 Customer Request
@@ -120,6 +123,7 @@ Success Criteria
 - Results remain relevant to jewellery shopping.
 
 ---
+<img width="1057" height="545" alt="image" src="https://github.com/user-attachments/assets/0fd6d4c8-db2d-4559-ba61-964a3984db0d" />
 
 6. Test Scenario 4 — Recipient
 
@@ -146,6 +150,7 @@ Success Criteria
 - The agent does not assume unnecessary personal information.
 
 ---
+<img width="1104" height="698" alt="image" src="https://github.com/user-attachments/assets/9ad4c02b-1cd2-46f4-8c27-231e28e7cff1" />
 
 7. Test Scenario 5 — Age
 
@@ -172,6 +177,7 @@ Success Criteria
 - The agent avoids making unsupported assumptions.
 
 ---
+<img width="1247" height="675" alt="image" src="https://github.com/user-attachments/assets/fad94478-d74b-4333-bdc2-623880b35896" />
 
 8. Test Scenario 6 — Regional Market
 
@@ -201,6 +207,7 @@ Success Criteria
 - Product availability is considered within the applicable context.
 
 ---
+<img width="783" height="810" alt="image" src="https://github.com/user-attachments/assets/6b39b562-1728-43a4-a4c1-f35e055b1918" />
 
 9. Test Scenario 7 — Budget & Currency
 
@@ -229,6 +236,7 @@ Success Criteria
 - The customer-facing result is transparent about the pricing basis.
 
 ---
+<img width="795" height="483" alt="image" src="https://github.com/user-attachments/assets/e019ddc6-1cf8-4df4-8fba-08dacc67c164" />
 
 10. Test Scenario 8 — Product / Catalogue
 
@@ -256,6 +264,7 @@ Success Criteria
 - The agent does not invent products.
 
 ---
+<img width="762" height="612" alt="image" src="https://github.com/user-attachments/assets/7601d4c0-cc85-4e7e-9007-6f5d115b5b69" />
 
 11. Test Scenario 9 — Market-Aware Pricing
 
@@ -285,6 +294,7 @@ Success Criteria
 - The agent does not invent a price.
 
 ---
+<img width="775" height="706" alt="image" src="https://github.com/user-attachments/assets/79cfc748-92e8-49f1-b0fc-c870c9827ffe" />
 
 12. Test Scenario 10 — Shipping Eligibility
 
@@ -324,6 +334,7 @@ Success Criteria
 - The agent does not invent shipping information.
 
 ---
+<img width="746" height="612" alt="image" src="https://github.com/user-attachments/assets/de3d0462-7600-43f0-a378-39e7beecf6d5" />
 
 13. Test Scenario 11 — Customer Purchase Decision
 
@@ -351,6 +362,7 @@ Success Criteria
 - Any regional alternative is clearly presented as an option.
 
 ---
+<img width="647" height="762" alt="image" src="https://github.com/user-attachments/assets/e110a385-59aa-478b-9e99-994cb862a2b5" />
 
 14. Test Scenario 12 — Direct Product Routing
 
@@ -377,6 +389,7 @@ Success Criteria
 - The customer can continue the normal Shopify shopping experience.
 
 ---
+<img width="752" height="459" alt="image" src="https://github.com/user-attachments/assets/eb32be09-da83-4047-8980-002d87ed0d30" />
 
 15. Test Scenario 13 — Complete Customer Journey
 
@@ -447,6 +460,7 @@ Success Criteria
 The test is successful when the agent can move from a natural-language request containing multiple shopping requirements to a useful, store-backed shopping result without inventing unsupported information.
 
 ---
+<img width="672" height="455" alt="image" src="https://github.com/user-attachments/assets/fcf3b1a4-88c0-4dea-ab8f-db5c85dfb9de" />
 
 16. Test Scenario 14 — Uncertainty Handling
 
@@ -471,12 +485,13 @@ Success Criteria
 The AI must not convert incomplete information into a false guarantee.
 
 ---
+<img width="822" height="526" alt="image" src="https://github.com/user-attachments/assets/e5c41e9e-f751-4eb4-bd7b-859d010e47b6" />
 
 17. Test Scenario 15 — Minimal Request
 
 Customer Request
 
-«"Show me jewellery."»
+«"SHOW ME JEWELLERY"»
 
 Expected Behaviour
 
@@ -499,6 +514,7 @@ Success Criteria
 - The customer can begin shopping without providing unnecessary information.
 
 ---
+<img width="783" height="413" alt="image" src="https://github.com/user-attachments/assets/a969265d-e847-4594-adb6-875c9643dfab" />
 
 18. Test Scenario 16 — Multi-Constraint Request
 
@@ -535,6 +551,7 @@ Success Criteria
 The resulting products should reflect as many of the customer's stated constraints as the available store information allows.
 
 ---
+<img width="810" height="598" alt="image" src="https://github.com/user-attachments/assets/4ea6f5b9-2c96-4530-9c52-020ed4edf8bf" />
 
 19. Test Result Classification
 
@@ -591,3 +608,10 @@ This single request demonstrates the core idea of the project:
 A customer expresses shopping intent naturally, and the WebMCP-enabled agent coordinates the relevant capabilities to produce a store-backed shopping result.
 
 The additional scenarios can then be used to demonstrate individual capabilities such as market handling, currency, pricing, shipping, uncertainty, and direct product routing.
+<img width="769" height="816" alt="image" src="https://github.com/user-attachments/assets/da94542b-ce76-436d-a46e-7dc0de22351d" />
+<img width="679" height="761" alt="image" src="https://github.com/user-attachments/assets/16df5417-a27b-40e9-b38a-04fcfa12c4f3" />
+
+<img width="693" height="724" alt="image" src="https://github.com/user-attachments/assets/7fd498b0-b7e4-479f-9416-cd9db36bc4b4" />
+<img width="747" height="304" alt="image" src="https://github.com/user-attachments/assets/cb1d845b-5642-4c0e-a957-2b6a92c52e49" />
+
+
