@@ -387,8 +387,9 @@ The final part of the video presents the master implementation file, providing a
 
 ▶️ Watch the 3-Minute Demonstration
 
-[INSERT VIDEO LINK HERE]
+[INSERT VIDEO LINKhttps://youtu.be/5SkEhm6qwU0?si=4iJFOQ8i6LuZ2o5J HERE]
 
+https://youtu.be/5SkEhm6qwU0?si=4iJFOQ8i6LuZ2o5J
 Demonstration Flow
 
 01 — Introduction
