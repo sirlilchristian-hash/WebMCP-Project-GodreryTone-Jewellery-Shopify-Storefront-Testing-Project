@@ -8,7 +8,7 @@ Project Overview
 
 My project is based on a real-world Shopify store experience.
 
-👉 Click here to view the GodreryTone Jewellery Store
+👉 Click here to view the GodreryTone Jewellery Store-https://godrerytonejewellery.myshopify.com/
 
 To my surprise, this WebMCP opportunity would fit so closely with something I was already thinking about while working toward making GodreryTone Jewellery a fully functional online store.
 
